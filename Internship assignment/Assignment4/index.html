@@ -1,0 +1,59 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<style>
+    *{
+        margin: 0px;
+        padding: 0px;
+        box-sizing: border-box;
+    }
+    div{
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        flex-wrap: wrap;
+    }
+    div img{
+        width: 350px;
+        height: 350px;
+        border: 2px solid rgb(114, 39, 39);
+        border-radius: 13px;
+        box-shadow: 4px 7px 7px 0px rgb(242, 11, 11);
+        cursor: pointer;
+        margin: 10px;
+        transition: 400ms;
+    }
+    div img:hover{
+        filter: grayscale();
+        transform: scale(1.03);
+    }
+    div video{
+        width: 250px;
+        height: 200px;
+        border: 2px solid rgb(114, 39, 39);
+        border-radius: 13px;
+        cursor: pointer;
+        margin: 10px;
+    
+    }
+</style>
+<body>
+    <h1>Here My Favorite Images</h1>
+   <div>
+    <img src="/download.webp" alt="Virat Kohli" >
+    <img src="/rohith.jpg" alt="Rohith Sharma"><br>
+    <img src="/kl rahul.jpg" alt="KL Rahul">
+    <img src="/dhoni.avif" alt="MS Dhoni">
+   </div>
+   <br>
+   <h1>Here My Favorite Videos</h1>
+   <div class="videos">
+    <video src="/3129424-hd_1920_1080_24fps.mp4" controls></video>
+    <video src="/pexels-mikhail-nilov-7989448 (1080p).mp4" controls></video>
+   </div>
+</body>
+</html>

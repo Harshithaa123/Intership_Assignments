@@ -1,0 +1,133 @@
+*{
+    margin:0px ;
+    padding: 0px;
+}
+body{
+    background-color: rgb(60, 24, 24);
+    height: 100vh;
+   width: 100%;
+    background-image: linear-gradient(rgba(112, 108, 108, 0.228),rgba(94, 89, 89, 0.335)),url(/bgimage.jpg);
+    background-size: cover;
+    background-position: center;
+}
+.nav{
+    height: 100px;
+    width: 100vw;
+    display: flex;
+    position:absolute;
+    top: 0px;
+    /* background-color: rgb(128, 107, 107); */
+    z-index: 1;
+}
+.nav h1{
+    font-size: 44px;
+    color: rgb(75, 21, 224);
+    margin-left: 130px;
+    margin-top: 30px;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+.about{
+    width: 83%;
+    margin: 0 auto;
+    margin-top: 120px;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+.about p{
+    color:rgb(0, 209, 132);
+    font-size: 40px;
+    font-weight: 700;
+}
+.about h2{
+    color:rgb(53, 49, 174);
+    font-size: 28px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+.about span{
+    color: rgb(0, 0, 0);
+    font-size: 24px;
+}
+.education h2{
+    color: rgba(194, 65, 179, 0.652);
+    font-size: 28px;
+    margin-top: 30px;
+}
+.school{
+    color: rgb(0, 0, 0);
+    width: 22%;
+    padding: 16px;
+    background-color: #3f5054;
+}
+.school span{
+    font-size: 22px;
+    color: rgb(0, 0, 0);;
+    margin-bottom: 6px;
+    background-color: #3f5054;
+    display: block;
+}
+.college{
+    color: rgb(0, 0, 0);;
+    width: 24%;
+    padding: 16px;
+    margin-left: 20px;
+    background-color: #3f5054;
+}
+.college span{
+    font-size: 22px;
+    color: rgb(0, 0, 0);
+    margin-bottom: 6px;
+    display: block;
+    background-color: #3f5054;
+}
+.engineering{
+    color: rgb(0, 0, 0);
+    width: 48%;
+    padding: 16px;
+    margin-left: 20px;
+    background-color: #3f5054;
+}
+.engineering span{
+    font-size: 22px;
+    color: rgb(0, 0, 0);
+    margin-bottom: 6px;
+    display: block;
+    background-color:#3f5054;
+}
+.edu{
+    margin-top: 20px;
+    display: flex;
+}
+.strength h2{
+    color: palevioletred;
+    font-size: 28px;
+    margin-top: 30px;
+}
+.strength li{
+    font-size: 24px;
+    color: rgb(0, 0, 0);
+}
+.hobby h2{
+    color: palevioletred;
+    font-size: 28px;
+    margin-top: 30px;
+}
+.hobby li{
+    font-size: 24px;
+    color: rgb(0, 0, 0);
+}
+.hobby{
+    margin-bottom: 20px;
+}
+.skills{
+    margin-top: 25px;
+    display: contents;
+}
+.skills h4{
+    color: palevioletred;
+    font-size: 20px;
+    margin-top: 30px;
+}
+.skills li{
+    font-size: 20px;
+    color: rgb(0, 0, 0);
+}
