@@ -1,0 +1,140 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Bootstrap Sidebar with Icons</title>
+  <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css">
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.4/css/all.min.css">
+  <style>
+    .sidebar {
+      position: fixed;
+      top: 0;
+      left: 0;
+      height: 100%;
+      width: 200px;
+      background-color: #343a40;
+      padding-top: 50px;
+    }
+    .sidebar a {
+      padding: 10px;
+      color: #fff;
+      display: block;
+    }
+    .sidebar a:hover {
+      background-color: #495057;
+      text-decoration: none;
+    }
+    .content {
+      margin-left: 200px;
+      padding: 20px;
+    }
+    .pricing-table {
+      margin-bottom: 50px;
+    }
+    .pricing-table .card {
+      border: none;
+      border-radius: 10px;
+      transition: all 0.3s;
+    }
+    .pricing-table .card:hover {
+      box-shadow: 0 4px 8px rgba(0,0,0,0.1);
+    }
+    .pricing-table .card-header {
+      background-color: rgb(4, 4, 81);
+      color: #fff;
+      border-radius: 10px 10px 0 0;
+      text-align: center;
+      padding: 20px;
+      font-weight: bold;
+    }
+    .pricing-table .card-body {
+      text-align: center;
+      color: black;
+      font-size: large;
+      background-color: rgba(174, 103, 103, 0.195);
+    }
+    .headder{
+        padding:inherit;
+        display: flex;
+        text-underline-offset: inherit;
+    }
+  </style>
+</head>
+<body>
+
+<div class="sidebar">
+  <a href="#"><i class="fas fa-home"></i> Home</a>
+  <a href="#"><i class="fas fa-user"></i> Profile</a>
+  <a href="#"><i class="fas fa-dollar-sign price-icon"></i> Price</a>
+  <a href="#"><i class="fas fa-envelope"></i> Messages</a>
+  <a href="#"><i class="fas fa-cog"></i> Settings</a>
+  
+</div>
+<div class="headder">
+<h1>ROUNDED CORNERES PRICING TABLE</h1>
+</div>
+<div class="container">
+    <div class="row">
+      <div class="col-md-4">
+        <div class="pricing-table">
+          <div class="card">
+            <div class="card-header">
+              <h1>Lite</h1><br>
+              <h2>$29</h2>
+            </div>
+            <div class="card-body">
+              <ul class="list-unstyled">
+                <li>10 GB Storage</li><br>
+                <li>Upto 2 Users</li><br>
+                <li>Standard Support</li><br>
+              </ul>
+              <a href="#" class="btn btn-danger">BUY NOW</a>
+            </div>
+          </div>
+        </div>
+      </div>
+      <div class="col-md-4">
+        <div class="pricing-table">
+          <div class="card">
+            <div class="card-header">
+              <h1>Pro</h1><br>
+              <h1>$59</h1>
+            </div>
+            <div class="card-body">
+              <ul class="list-unstyled">
+                <li>20 GB of Storage</li><br>
+                <li>Up to 5 Users</li><br>
+                <li>Standard Support</li><br>
+              </ul>
+              <a href="#" class="btn btn-danger">BUY NOW</a>
+            </div>
+          </div>
+        </div>
+      </div>
+      <div class="col-md-4">
+        <div class="pricing-table">
+          <div class="card">
+            <div class="card-header">
+              <h1>Business</h1><br>
+              <h1>$99</h1>
+            </div>
+            <div class="card-body">
+              <ul class="list-unstyled">
+                <li>50 GB Storage</li><br>
+                <li>Up to 10 Users</li><br>
+                <li>High level Support</li><br>
+              </ul>
+              <a href="#" class="btn btn-danger">BUY NOW</a>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+<script src="https://code.jquery.com/jquery-3.5.1.slim.min.js"></script>
+<script src="https://cdn.jsdelivr.net/npm/@popperjs/core@2.5.4/dist/umd/popper.min.js"></script>
+<script src="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/js/bootstrap.min.js"></script>
+
+</body>
+</html>
