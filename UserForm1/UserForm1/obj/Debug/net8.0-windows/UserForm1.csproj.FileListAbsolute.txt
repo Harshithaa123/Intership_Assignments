@@ -1,0 +1,17 @@
+E:\C#_Programs\UserForm1\UserForm1\bin\Debug\net8.0-windows\UserForm1.exe
+E:\C#_Programs\UserForm1\UserForm1\bin\Debug\net8.0-windows\UserForm1.deps.json
+E:\C#_Programs\UserForm1\UserForm1\bin\Debug\net8.0-windows\UserForm1.runtimeconfig.json
+E:\C#_Programs\UserForm1\UserForm1\bin\Debug\net8.0-windows\UserForm1.dll
+E:\C#_Programs\UserForm1\UserForm1\bin\Debug\net8.0-windows\UserForm1.pdb
+E:\C#_Programs\UserForm1\UserForm1\obj\Debug\net8.0-windows\UserForm1.Form1.resources
+E:\C#_Programs\UserForm1\UserForm1\obj\Debug\net8.0-windows\UserForm1.csproj.GenerateResource.cache
+E:\C#_Programs\UserForm1\UserForm1\obj\Debug\net8.0-windows\UserForm1.GeneratedMSBuildEditorConfig.editorconfig
+E:\C#_Programs\UserForm1\UserForm1\obj\Debug\net8.0-windows\UserForm1.AssemblyInfoInputs.cache
+E:\C#_Programs\UserForm1\UserForm1\obj\Debug\net8.0-windows\UserForm1.AssemblyInfo.cs
+E:\C#_Programs\UserForm1\UserForm1\obj\Debug\net8.0-windows\UserForm1.csproj.CoreCompileInputs.cache
+E:\C#_Programs\UserForm1\UserForm1\obj\Debug\net8.0-windows\UserForm1.dll
+E:\C#_Programs\UserForm1\UserForm1\obj\Debug\net8.0-windows\refint\UserForm1.dll
+E:\C#_Programs\UserForm1\UserForm1\obj\Debug\net8.0-windows\UserForm1.pdb
+E:\C#_Programs\UserForm1\UserForm1\obj\Debug\net8.0-windows\UserForm1.genruntimeconfig.cache
+E:\C#_Programs\UserForm1\UserForm1\obj\Debug\net8.0-windows\ref\UserForm1.dll
+E:\C#_Programs\UserForm1\UserForm1\obj\Debug\net8.0-windows\UserForm1.Properties.Resources.resources
