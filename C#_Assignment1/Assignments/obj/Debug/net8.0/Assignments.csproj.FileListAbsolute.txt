@@ -1,0 +1,14 @@
+E:\C#_Programs\Assignments\Assignments\bin\Debug\net8.0\Assignments.exe
+E:\C#_Programs\Assignments\Assignments\bin\Debug\net8.0\Assignments.deps.json
+E:\C#_Programs\Assignments\Assignments\bin\Debug\net8.0\Assignments.runtimeconfig.json
+E:\C#_Programs\Assignments\Assignments\bin\Debug\net8.0\Assignments.dll
+E:\C#_Programs\Assignments\Assignments\bin\Debug\net8.0\Assignments.pdb
+E:\C#_Programs\Assignments\Assignments\obj\Debug\net8.0\Assignments.GeneratedMSBuildEditorConfig.editorconfig
+E:\C#_Programs\Assignments\Assignments\obj\Debug\net8.0\Assignments.AssemblyInfoInputs.cache
+E:\C#_Programs\Assignments\Assignments\obj\Debug\net8.0\Assignments.AssemblyInfo.cs
+E:\C#_Programs\Assignments\Assignments\obj\Debug\net8.0\Assignments.csproj.CoreCompileInputs.cache
+E:\C#_Programs\Assignments\Assignments\obj\Debug\net8.0\Assignments.dll
+E:\C#_Programs\Assignments\Assignments\obj\Debug\net8.0\refint\Assignments.dll
+E:\C#_Programs\Assignments\Assignments\obj\Debug\net8.0\Assignments.pdb
+E:\C#_Programs\Assignments\Assignments\obj\Debug\net8.0\Assignments.genruntimeconfig.cache
+E:\C#_Programs\Assignments\Assignments\obj\Debug\net8.0\ref\Assignments.dll
