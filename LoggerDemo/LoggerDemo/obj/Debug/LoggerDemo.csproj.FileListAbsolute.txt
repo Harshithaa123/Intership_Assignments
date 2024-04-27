@@ -1,0 +1,7 @@
+E:\C#_Programs\LoggerDemo\LoggerDemo\bin\Debug\LoggerDemo.exe.config
+E:\C#_Programs\LoggerDemo\LoggerDemo\bin\Debug\LoggerDemo.exe
+E:\C#_Programs\LoggerDemo\LoggerDemo\bin\Debug\LoggerDemo.pdb
+E:\C#_Programs\LoggerDemo\LoggerDemo\obj\Debug\LoggerDemo.csproj.AssemblyReference.cache
+E:\C#_Programs\LoggerDemo\LoggerDemo\obj\Debug\LoggerDemo.csproj.CoreCompileInputs.cache
+E:\C#_Programs\LoggerDemo\LoggerDemo\obj\Debug\LoggerDemo.exe
+E:\C#_Programs\LoggerDemo\LoggerDemo\obj\Debug\LoggerDemo.pdb
