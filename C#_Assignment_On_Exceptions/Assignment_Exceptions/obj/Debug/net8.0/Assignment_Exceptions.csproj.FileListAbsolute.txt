@@ -1,0 +1,14 @@
+E:\C#_Programs\Assignment_Exceptions\Assignment_Exceptions\bin\Debug\net8.0\Assignment_Exceptions.exe
+E:\C#_Programs\Assignment_Exceptions\Assignment_Exceptions\bin\Debug\net8.0\Assignment_Exceptions.deps.json
+E:\C#_Programs\Assignment_Exceptions\Assignment_Exceptions\bin\Debug\net8.0\Assignment_Exceptions.runtimeconfig.json
+E:\C#_Programs\Assignment_Exceptions\Assignment_Exceptions\bin\Debug\net8.0\Assignment_Exceptions.dll
+E:\C#_Programs\Assignment_Exceptions\Assignment_Exceptions\bin\Debug\net8.0\Assignment_Exceptions.pdb
+E:\C#_Programs\Assignment_Exceptions\Assignment_Exceptions\obj\Debug\net8.0\Assignment_Exceptions.GeneratedMSBuildEditorConfig.editorconfig
+E:\C#_Programs\Assignment_Exceptions\Assignment_Exceptions\obj\Debug\net8.0\Assignment_Exceptions.AssemblyInfoInputs.cache
+E:\C#_Programs\Assignment_Exceptions\Assignment_Exceptions\obj\Debug\net8.0\Assignment_Exceptions.AssemblyInfo.cs
+E:\C#_Programs\Assignment_Exceptions\Assignment_Exceptions\obj\Debug\net8.0\Assignment_Exceptions.csproj.CoreCompileInputs.cache
+E:\C#_Programs\Assignment_Exceptions\Assignment_Exceptions\obj\Debug\net8.0\Assignment_Exceptions.dll
+E:\C#_Programs\Assignment_Exceptions\Assignment_Exceptions\obj\Debug\net8.0\refint\Assignment_Exceptions.dll
+E:\C#_Programs\Assignment_Exceptions\Assignment_Exceptions\obj\Debug\net8.0\Assignment_Exceptions.pdb
+E:\C#_Programs\Assignment_Exceptions\Assignment_Exceptions\obj\Debug\net8.0\Assignment_Exceptions.genruntimeconfig.cache
+E:\C#_Programs\Assignment_Exceptions\Assignment_Exceptions\obj\Debug\net8.0\ref\Assignment_Exceptions.dll
