@@ -1,0 +1,17 @@
+E:\C#_Programs\Assignments_Linq_Json\Assignments_Linq_Json\bin\Debug\net8.0\Assignments_Linq_Json.exe
+E:\C#_Programs\Assignments_Linq_Json\Assignments_Linq_Json\bin\Debug\net8.0\Assignments_Linq_Json.deps.json
+E:\C#_Programs\Assignments_Linq_Json\Assignments_Linq_Json\bin\Debug\net8.0\Assignments_Linq_Json.runtimeconfig.json
+E:\C#_Programs\Assignments_Linq_Json\Assignments_Linq_Json\bin\Debug\net8.0\Assignments_Linq_Json.dll
+E:\C#_Programs\Assignments_Linq_Json\Assignments_Linq_Json\bin\Debug\net8.0\Assignments_Linq_Json.pdb
+E:\C#_Programs\Assignments_Linq_Json\Assignments_Linq_Json\obj\Debug\net8.0\Assignments_Linq_Json.GeneratedMSBuildEditorConfig.editorconfig
+E:\C#_Programs\Assignments_Linq_Json\Assignments_Linq_Json\obj\Debug\net8.0\Assignments_Linq_Json.AssemblyInfoInputs.cache
+E:\C#_Programs\Assignments_Linq_Json\Assignments_Linq_Json\obj\Debug\net8.0\Assignments_Linq_Json.AssemblyInfo.cs
+E:\C#_Programs\Assignments_Linq_Json\Assignments_Linq_Json\obj\Debug\net8.0\Assignments_Linq_Json.csproj.CoreCompileInputs.cache
+E:\C#_Programs\Assignments_Linq_Json\Assignments_Linq_Json\obj\Debug\net8.0\Assignments_Linq_Json.dll
+E:\C#_Programs\Assignments_Linq_Json\Assignments_Linq_Json\obj\Debug\net8.0\refint\Assignments_Linq_Json.dll
+E:\C#_Programs\Assignments_Linq_Json\Assignments_Linq_Json\obj\Debug\net8.0\Assignments_Linq_Json.pdb
+E:\C#_Programs\Assignments_Linq_Json\Assignments_Linq_Json\obj\Debug\net8.0\Assignments_Linq_Json.genruntimeconfig.cache
+E:\C#_Programs\Assignments_Linq_Json\Assignments_Linq_Json\obj\Debug\net8.0\ref\Assignments_Linq_Json.dll
+E:\C#_Programs\Assignments_Linq_Json\Assignments_Linq_Json\obj\Debug\net8.0\Assignments_Linq_Json.csproj.AssemblyReference.cache
+E:\C#_Programs\Assignments_Linq_Json\Assignments_Linq_Json\bin\Debug\net8.0\Newtonsoft.Json.dll
+E:\C#_Programs\Assignments_Linq_Json\Assignments_Linq_Json\obj\Debug\net8.0\Assignme.FF6C6CF7.Up2Date

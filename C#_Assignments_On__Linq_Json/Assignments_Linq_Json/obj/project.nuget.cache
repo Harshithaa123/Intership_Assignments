@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "y1Y4GnKXc7s6pbuo/FA4QEkTCVf+BK0wA4Qq0dj7eRUT3i69bbHJ/MWqlVnx9OuKFUWa1t+HxT83mBhoteaf2g==",
+  "success": true,
+  "projectFilePath": "E:\\C#_Programs\\Assignments_Linq_Json\\Assignments_Linq_Json\\Assignments_Linq_Json.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\pavan\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
