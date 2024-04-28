@@ -1,0 +1,14 @@
+E:\C#_Programs\C#_Assignment_On_Delegates\C#_Assignment_On_Delegates\bin\Debug\net8.0\C#_Assignment_On_Delegates.exe
+E:\C#_Programs\C#_Assignment_On_Delegates\C#_Assignment_On_Delegates\bin\Debug\net8.0\C#_Assignment_On_Delegates.deps.json
+E:\C#_Programs\C#_Assignment_On_Delegates\C#_Assignment_On_Delegates\bin\Debug\net8.0\C#_Assignment_On_Delegates.runtimeconfig.json
+E:\C#_Programs\C#_Assignment_On_Delegates\C#_Assignment_On_Delegates\bin\Debug\net8.0\C#_Assignment_On_Delegates.dll
+E:\C#_Programs\C#_Assignment_On_Delegates\C#_Assignment_On_Delegates\bin\Debug\net8.0\C#_Assignment_On_Delegates.pdb
+E:\C#_Programs\C#_Assignment_On_Delegates\C#_Assignment_On_Delegates\obj\Debug\net8.0\C#_Assignment_On_Delegates.GeneratedMSBuildEditorConfig.editorconfig
+E:\C#_Programs\C#_Assignment_On_Delegates\C#_Assignment_On_Delegates\obj\Debug\net8.0\C#_Assignment_On_Delegates.AssemblyInfoInputs.cache
+E:\C#_Programs\C#_Assignment_On_Delegates\C#_Assignment_On_Delegates\obj\Debug\net8.0\C#_Assignment_On_Delegates.AssemblyInfo.cs
+E:\C#_Programs\C#_Assignment_On_Delegates\C#_Assignment_On_Delegates\obj\Debug\net8.0\C#_Assignment_On_Delegates.csproj.CoreCompileInputs.cache
+E:\C#_Programs\C#_Assignment_On_Delegates\C#_Assignment_On_Delegates\obj\Debug\net8.0\C#_Assignment_On_Delegates.dll
+E:\C#_Programs\C#_Assignment_On_Delegates\C#_Assignment_On_Delegates\obj\Debug\net8.0\refint\C#_Assignment_On_Delegates.dll
+E:\C#_Programs\C#_Assignment_On_Delegates\C#_Assignment_On_Delegates\obj\Debug\net8.0\C#_Assignment_On_Delegates.pdb
+E:\C#_Programs\C#_Assignment_On_Delegates\C#_Assignment_On_Delegates\obj\Debug\net8.0\C#_Assignment_On_Delegates.genruntimeconfig.cache
+E:\C#_Programs\C#_Assignment_On_Delegates\C#_Assignment_On_Delegates\obj\Debug\net8.0\ref\C#_Assignment_On_Delegates.dll
